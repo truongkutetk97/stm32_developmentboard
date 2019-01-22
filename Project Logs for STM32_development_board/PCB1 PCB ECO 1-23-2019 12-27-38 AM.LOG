@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Resledpower1-1
+Added Component: Designator=LED5(SM-LED-1206-Red)
+Added Component: Designator=Resledpower2(RES-SMD-0805)
+Added Pin To Net: NetName=3V3 Pin=LED4-1
+Added Pin To Net: NetName=LEDSIGN Pin=Resledpower1-1
+Added Pin To Net: NetName=GND Pin=Resledpower1-1
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_2 Pin=Resledpower1-2
+Added Net: Name=NetLED5_2

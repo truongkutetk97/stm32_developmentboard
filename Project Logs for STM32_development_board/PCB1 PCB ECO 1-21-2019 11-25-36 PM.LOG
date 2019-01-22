@@ -1,0 +1,75 @@
+Change Component Designator: OldDesignator=J? NewDesignator=3V3
+Added Component: Designator=*(JP4)
+Added Component: Designator=20pico(Tu 0805)
+Added Component: Designator=20pico(Tu 0805)
+Added Component: Designator=20pico(Tu 0805)
+Added Component: Designator=20pico(Tu 0805)
+Added Component: Designator=BOOT0(JP3)
+Added Component: Designator=Dec_104(Tu 0805)
+Added Component: Designator=Dec_104(Tu 0805)
+Added Component: Designator=Dec_104(Tu 0805)
+Added Component: Designator=Dec_104(Tu 0805)
+Added Component: Designator=J?(USB-D2)
+Added Component: Designator=J?(USB-D2)
+Added Component: Designator=Resboot0(RES-SMD-0805)
+Added Component: Designator=Resboot1(RES-SMD-0805)
+Added Component: Designator=Resledpower(RES-SMD-0805)
+Added Component: Designator=U?(LM1117-SOP)
+Added Component: Designator=X?(XT32k)
+Added Component: Designator=X?(XT32k)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=3V3 Pin=*-4
+Added Pin To Net: NetName=GND Pin=20pico-2
+Added Pin To Net: NetName=GND Pin=20pico-2
+Added Pin To Net: NetName=GND Pin=20pico-2
+Added Pin To Net: NetName=GND Pin=20pico-2
+Added Pin To Net: NetName=3V3 Pin=BOOT0-1
+Added Pin To Net: NetName=GND Pin=BOOT0-3
+Added Pin To Net: NetName=3V3 Pin=Dec_104-1
+Added Pin To Net: NetName=3V3 Pin=Dec_104-1
+Added Pin To Net: NetName=3V3 Pin=Dec_104-1
+Added Pin To Net: NetName=3V3 Pin=Dec_104-1
+Added Pin To Net: NetName=GND Pin=Dec_104-2
+Added Pin To Net: NetName=GND Pin=Dec_104-2
+Added Pin To Net: NetName=GND Pin=Dec_104-2
+Added Pin To Net: NetName=GND Pin=Dec_104-2
+Added Pin To Net: NetName=GND Pin=Resboot1-1
+Added Pin To Net: NetName=GND Pin=Resledpower-1
+Added Pin To Net: NetName=Net20pico_1 Pin=20pico-1
+Added Pin To Net: NetName=Net20pico_1 Pin=U?-3
+Added Pin To Net: NetName=Net20pico_1 Pin=X?-2
+Added Net: Name=Net20pico_1
+Added Pin To Net: NetName=NetBOOT0_2 Pin=BOOT0-2
+Added Pin To Net: NetName=NetBOOT0_2 Pin=Resboot0-2
+Added Net: Name=NetBOOT0_2
+Added Pin To Net: NetName=NetLED?_2 Pin=Resledpower-2
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetResboot0_1 Pin=Resboot0-1
+Added Pin To Net: NetName=NetResboot0_1 Pin=U?-44
+Added Net: Name=NetResboot0_1
+Added Pin To Net: NetName=NetResboot1_2 Pin=Resboot1-2
+Added Pin To Net: NetName=NetResboot1_2 Pin=U?-20
+Added Net: Name=NetResboot1_2
+Added Pin To Net: NetName=OSC_IN Pin=20pico-1
+Added Pin To Net: NetName=OSC_IN Pin=U?-5
+Added Pin To Net: NetName=OSC_IN Pin=X?-2
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=20pico-1
+Added Pin To Net: NetName=OSC_OUT Pin=U?-6
+Added Pin To Net: NetName=OSC_OUT Pin=X?-1
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=SWDCLK Pin=*-2
+Added Pin To Net: NetName=SWDCLK Pin=U?-37
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=*-3
+Added Pin To Net: NetName=SWDIO Pin=U?-34
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Sheet1 Member=Component * JP4
+Added Member To Class: ClassName=Sheet1 Member=Component 20pico Tu 0805
+Added Member To Class: ClassName=Sheet1 Member=Component BOOT0 JP 2-1
+Added Member To Class: ClassName=Sheet1 Member=Component Dec_104 104
+Added Member To Class: ClassName=Sheet1 Member=Component J? 8492121
+Added Member To Class: ClassName=Sheet1 Member=Component Resboot0 10k
+Added Member To Class: ClassName=Sheet1 Member=Component Resboot1 10k
+Added Member To Class: ClassName=Sheet1 Member=Component Resledpower 470
+Added Member To Class: ClassName=Sheet1 Member=Component X? 8mhz

@@ -1,0 +1,8 @@
+Added Component: Designator=jo1(JP5)
+Added Component: Designator=jo2(JP5)
+Added Component: Designator=jo3(JP5)
+Added Component: Designator=jo4(JP5)
+Added Member To Class: ClassName=Sheet1 Member=Component jo1 JP5
+Added Member To Class: ClassName=Sheet1 Member=Component jo2 JP5
+Added Member To Class: ClassName=Sheet1 Member=Component jo3 JP5
+Added Member To Class: ClassName=Sheet1 Member=Component jo4 JP5

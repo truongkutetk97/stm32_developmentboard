@@ -1,0 +1,31 @@
+Bill of Material for 
+On 1/22/2019 at 2:49:45 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 103                 Tu 0805          2    cappow1, cappow4                                  
+ 104                 Tu 0805          9    cappow2, cappow3, Dec_1                           
+                                           Dec_2, Dec_3, Dec_4, Dec_5
+                                           Dec_6, Dec_7
+ 10k                 RES-SMD-0805     4    Resboot1, Resboot2, Rpl1     Resistor             
+                                           Rpl2
+ 12mhz               XT32k            1    X1                           Crystal, 32.768 KHz, -40 to 85 degC, 3.2 x 1.5 x 0.9 mm SMD 
+ 22                  RES-SMD-0805     6    Rdm1, Rdm2, Rdm3, Rdm4, Rdp1 Resistor             
+                                           Rdp2
+ 22p                 Tu 0805          4    6, 7, 8, 9                                        
+ 32k768              XT32k            1    X2                           Crystal, 32.768 KHz, -40 to 85 degC, 3.2 x 1.5 x 0.9 mm SMD 
+ 470                 RES-SMD-0805     4    Resledpower1, Resrx1, ResTx1 Resistor             
+                                           rUSB1
+ 8mhz                XT32k            1    X3                           Crystal, 32.768 KHz, -40 to 85 degC, 3.2 x 1.5 x 0.9 mm SMD 
+ Button              Button 2 Pin     1    B1                           Button 2 pin         
+ JP 2-1              JP3              3    BOOT1, d+1, d-1              Jumper 2-1           
+ JP4                 JP4              1    *1                                                
+ Jumper 2            JP2              3    3, 4, 5                      Jumper 2             
+ LED SMD             SM-LED-1206-Red    4    LED1, LED2, LED3, LED4                            
+ LM1117-3.3V         LM1117-SOP       1    U2                           800mA Low-Dropout Linear Regulator 
+ PL2303HX            SO-G28/C6.8      1    IC1                          USB - RS232 Converter 
+ Res                 RES-SMD-0805     1    Rnrst1                       Resistor             
+ STM32F101C6T6       TQFP48           1    U1                           STM32 ARM-based 32-bit MCU with 32 Kbytes Flash, 48-pin LQFP, Industrial Temperature 
+ Tu 0805 22p         Tu 0805          2    1, 2                                              
+ Tu 0805             Tu 0805          1    C1                                                
+ USB_M               USB_B_MINI_SMD    1    USB1                                              

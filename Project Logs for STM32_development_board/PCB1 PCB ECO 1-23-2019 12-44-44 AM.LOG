@@ -1,0 +1,9 @@
+Added Component: Designator=LED13(SM-LED-1206-Red)
+Added Component: Designator=resled13(RES-SMD-0805)
+Added Pin To Net: NetName=3V3 Pin=LED13-1
+Added Pin To Net: NetName=LEDSIGN Pin=resled13-1
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=resled13-2
+Added Net: Name=NetLED13_2
+Added Member To Class: ClassName=Sheet1 Member=Component LED13 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component resled13 470

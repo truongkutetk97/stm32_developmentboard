@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=5V Pin=USB1-1
+Removed Pin From Net: NetName=D- Pin=USB1-2
+Removed Pin From Net: NetName=D+ Pin=USB1-3
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=Sheet1 Member=USB1
+Added Component: Designator=micro(USB-M1)
+Added Pin To Net: NetName=5V Pin=micro-1
+Added Pin To Net: NetName=D- Pin=micro-2
+Added Pin To Net: NetName=D+ Pin=micro-3
+Added Pin To Net: NetName=GND Pin=micro-5
+Added Pin To Net: NetName=GND Pin=micro-5
+Added Pin To Net: NetName=GND Pin=micro-5
+Added Member To Class: ClassName=Sheet1 Member=Component micro USB-5

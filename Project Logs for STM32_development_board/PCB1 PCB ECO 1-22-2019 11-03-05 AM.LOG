@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=X1 Old Footprint=XT32k New Footprint=XT2-SMD
+Change Component Footprint: Designator=X3 Old Footprint=XT32k New Footprint=XT2-SMD
+Added Member To Class: ClassName=Sheet1 Member=Component 3 Jumper 2
+Added Member To Class: ClassName=Sheet1 Member=Component 4 Jumper 2
+Added Member To Class: ClassName=Sheet1 Member=Component cappow1 103

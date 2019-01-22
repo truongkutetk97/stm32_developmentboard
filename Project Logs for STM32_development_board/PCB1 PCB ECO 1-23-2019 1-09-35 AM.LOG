@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BOOT0 Pin=Resboot2-1
+Added Component: Designator=Resboot4(RES-SMD-0805)
+Added Pin To Net: NetName=BOOT0 Pin=Resboot2-1
+Added Pin To Net: NetName=NetResboot2_1 Pin=Resboot2-1
+Added Pin To Net: NetName=NetResboot2_1 Pin=Resboot2-2
+Added Net: Name=NetResboot2_1
+Added Member To Class: ClassName=Sheet1 Member=Component Resboot4 10k

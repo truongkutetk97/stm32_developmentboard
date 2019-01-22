@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [STM32_development_board.PrjPcb]
+   Generated File[PCB1.BOM]
+   Generated File[PCB1.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 2:49:45 AM On 1/22/2019

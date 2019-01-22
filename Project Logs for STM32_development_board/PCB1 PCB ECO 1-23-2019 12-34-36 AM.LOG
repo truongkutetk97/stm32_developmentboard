@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=Resledpower1-1
+Removed Pin From Net: NetName=NetLED5_2 Pin=Resledpower1-2
+Removed Pin From Net: NetName=OSC_OUT Pin=X3-1
+Removed Pin From Net: NetName=OSC_IN Pin=X3-2
+Removed Member From Class: ClassName=Sheet1 Member=X3
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Added Component: Designator=led13(SM-LED-0805-Blue)
+Added Component: Designator=Resledpower2(RES-SMD-0805)
+Added Component: Designator=Xxx(XT2)
+Added Pin To Net: NetName=3V3 Pin=led13-1
+Added Pin To Net: NetName=LEDSIGN Pin=Resledpower1-1
+Added Pin To Net: NetName=GND Pin=Resledpower1-1
+Added Pin To Net: NetName=NetLED5_2 Pin=Resledpower1-2
+Added Pin To Net: NetName=OSC_OUT Pin=Xxx-1
+Added Pin To Net: NetName=OSC_IN Pin=Xxx-2
+Added Pin To Net: NetName=Netled13_2 Pin=led13-2
+Added Pin To Net: NetName=Netled13_2 Pin=Resledpower1-2
+Added Net: Name=Netled13_2
+Added Member To Class: ClassName=Sheet1 Member=Component led13 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component Resledpower2 470
+Added Member To Class: ClassName=Sheet1 Member=Component Xxx 8mhzdip

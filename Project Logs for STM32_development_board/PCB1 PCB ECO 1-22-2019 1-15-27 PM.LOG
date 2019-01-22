@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCCPL Pin=LED2-1
+Removed Pin From Net: NetName=VCCPL Pin=LED3-1
+Added Pin To Net: NetName=5V Pin=LED2-1
+Added Pin To Net: NetName=5V Pin=LED3-1
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 PL2303HX

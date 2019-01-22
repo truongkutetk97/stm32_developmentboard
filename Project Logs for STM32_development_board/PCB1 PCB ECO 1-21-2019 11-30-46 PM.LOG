@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Added Component: Designator=USB1(USB_B_MINI_SMD)
+Added Member To Class: ClassName=Sheet1 Member=Component USB1 USB_M

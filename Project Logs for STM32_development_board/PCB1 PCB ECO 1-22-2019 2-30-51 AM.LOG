@@ -1,0 +1,114 @@
+Added Component: Designator=22p(Tu 0805)
+Added Component: Designator=22p(Tu 0805)
+Added Component: Designator=d+(JP3)
+Added Component: Designator=d-(JP3)
+Added Component: Designator=Dec_4(Tu 0805)
+Added Component: Designator=Dec_4(Tu 0805)
+Added Component: Designator=Dec_4(Tu 0805)
+Added Component: Designator=IC?(SO-G28/C6.8)
+Added Component: Designator=LED1(SM-LED-1206-Red)
+Added Component: Designator=LED1(SM-LED-1206-Red)
+Added Component: Designator=LED1(SM-LED-1206-Red)
+Added Component: Designator=Rdm2(RES-SMD-0805)
+Added Component: Designator=Rdm(RES-SMD-0805)
+Added Component: Designator=Rdm(RES-SMD-0805)
+Added Component: Designator=Rdm(RES-SMD-0805)
+Added Component: Designator=Rdp2(RES-SMD-0805)
+Added Component: Designator=Rdp(RES-SMD-0805)
+Added Component: Designator=Resrx(RES-SMD-0805)
+Added Component: Designator=ResTx(RES-SMD-0805)
+Added Component: Designator=Rpl(RES-SMD-0805)
+Added Component: Designator=Rpl(RES-SMD-0805)
+Added Component: Designator=rUSB(RES-SMD-0805)
+Added Component: Designator=X2(XT32k)
+Added Pin To Net: NetName=GND Pin=22p-2
+Added Pin To Net: NetName=GND Pin=22p-2
+Added Pin To Net: NetName=D+ Pin=d+-2
+Added Pin To Net: NetName=D- Pin=d--2
+Added Pin To Net: NetName=5V Pin=Dec_4-1
+Added Pin To Net: NetName=GND Pin=Dec_4-1
+Added Pin To Net: NetName=GND Pin=Dec_4-2
+Added Pin To Net: NetName=GND Pin=Dec_4-2
+Added Pin To Net: NetName=GND Pin=IC?-18
+Added Pin To Net: NetName=5V Pin=IC?-20
+Added Pin To Net: NetName=GND Pin=IC?-21
+Added Pin To Net: NetName=GND Pin=IC?-22
+Added Pin To Net: NetName=GND Pin=IC?-23
+Added Pin To Net: NetName=GND Pin=IC?-25
+Added Pin To Net: NetName=GND Pin=IC?-26
+Added Pin To Net: NetName=5V Pin=LED1-1
+Added Pin To Net: NetName=3V3 Pin=Rdm-1
+Added Pin To Net: NetName=3V3 Pin=Rdm-2
+Added Pin To Net: NetName=5V Pin=Rpl-2
+Added Pin To Net: NetName=5V Pin=Rpl-2
+Added Pin To Net: NetName=GND Pin=rUSB-1
+Change Net Name : Old Net Name=NetB1_2 New Net Name=RESET
+Change Net Name : Old Net Name=NetResboot1_2 New Net Name=BOOT1
+Change Net Name : Old Net Name=NetResboot2_1 New Net Name=BOOT0
+Added Pin To Net: NetName=LEDSIGN2 Pin=U2-26
+Added Net: Name=LEDSIGN2
+Added Pin To Net: NetName=LEDSIGN Pin=U2-25
+Added Net: Name=LEDSIGN
+Added Pin To Net: NetName=Net22p_1 Pin=22p-1
+Added Pin To Net: NetName=Net22p_1 Pin=IC?-27
+Added Pin To Net: NetName=Net22p_1 Pin=X2-1
+Added Net: Name=Net22p_1
+Added Pin To Net: NetName=Netd+_1 Pin=d+-1
+Added Pin To Net: NetName=Netd+_1 Pin=Rdm-1
+Added Pin To Net: NetName=Netd+_1 Pin=Rdp-2
+Added Net: Name=Netd+_1
+Added Pin To Net: NetName=Netd+_3 Pin=d+-3
+Added Pin To Net: NetName=Netd+_3 Pin=Rdm-2
+Added Pin To Net: NetName=Netd+_3 Pin=Rdp2-2
+Added Net: Name=Netd+_3
+Added Pin To Net: NetName=Netd-_1 Pin=d--1
+Added Pin To Net: NetName=Netd-_1 Pin=Rdm-2
+Added Net: Name=Netd-_1
+Added Pin To Net: NetName=Netd-_3 Pin=d--3
+Added Pin To Net: NetName=Netd-_3 Pin=Rdm2-2
+Added Net: Name=Netd-_3
+Added Pin To Net: NetName=NetIC?_13 Pin=IC?-13
+Added Pin To Net: NetName=NetIC?_13 Pin=Rpl-1
+Added Net: Name=NetIC?_13
+Added Pin To Net: NetName=NetIC?_14 Pin=IC?-14
+Added Pin To Net: NetName=NetIC?_14 Pin=Rpl-1
+Added Net: Name=NetIC?_14
+Added Pin To Net: NetName=PL_DM Pin=IC?-16
+Added Pin To Net: NetName=PL_DM Pin=Rdm2-1
+Added Net: Name=PL_DM
+Added Pin To Net: NetName=PL_PM Pin=IC?-15
+Added Pin To Net: NetName=PL_PM Pin=Rdp2-1
+Added Net: Name=PL_PM
+Added Pin To Net: NetName=RX Pin=IC?-5
+Added Pin To Net: NetName=RX Pin=Resrx-1
+Added Pin To Net: NetName=RX Pin=U2-30
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=IC?-1
+Added Pin To Net: NetName=TX Pin=ResTx-1
+Added Pin To Net: NetName=TX Pin=U2-31
+Added Net: Name=TX
+Added Pin To Net: NetName=USB_DM Pin=Rdm-1
+Added Pin To Net: NetName=USB_DM Pin=U2-32
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=Rdp-1
+Added Pin To Net: NetName=USB_DP Pin=U2-33
+Added Net: Name=USB_DP
+Added Pin To Net: NetName=VCCPL Pin=Dec_4-1
+Added Pin To Net: NetName=VCCPL Pin=Dec_4-2
+Added Pin To Net: NetName=VCCPL Pin=IC?-4
+Added Pin To Net: NetName=VCCPL Pin=IC?-17
+Added Pin To Net: NetName=VCCPL Pin=LED1-1
+Added Pin To Net: NetName=VCCPL Pin=LED1-1
+Added Net: Name=VCCPL
+Added Member To Class: ClassName=Sheet1 Member=Component 22p Tu 0805 22p
+Added Member To Class: ClassName=Sheet1 Member=Component d+ JP 2-1
+Added Member To Class: ClassName=Sheet1 Member=Component d- JP 2-1
+Added Member To Class: ClassName=Sheet1 Member=Component IC? PL2303HX
+Added Member To Class: ClassName=Sheet1 Member=Component Rdm2 22
+Added Member To Class: ClassName=Sheet1 Member=Component Rdm 22
+Added Member To Class: ClassName=Sheet1 Member=Component Rdp2 22
+Added Member To Class: ClassName=Sheet1 Member=Component Rdp 22
+Added Member To Class: ClassName=Sheet1 Member=Component Resrx 470
+Added Member To Class: ClassName=Sheet1 Member=Component ResTx 470
+Added Member To Class: ClassName=Sheet1 Member=Component Rpl 10k
+Added Member To Class: ClassName=Sheet1 Member=Component rUSB 470

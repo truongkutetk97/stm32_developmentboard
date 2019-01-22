@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=RX Pin=U1-30
+Removed Pin From Net: NetName=TX Pin=U1-31
+Change Component Comment : Designator=4 Old Comment=Tu 0805 New Comment=22p
+Change Component Comment : Designator=5 Old Comment=Tu 0805 New Comment=22p
+Change Component Comment : Designator=6 Old Comment=Tu 0805 New Comment=22p
+Change Component Comment : Designator=7 Old Comment=Tu 0805 New Comment=22p
+Change Component Designator: OldDesignator=3 NewDesignator=5
+Change Component Designator: OldDesignator=4 NewDesignator=6
+Change Component Designator: OldDesignator=5 NewDesignator=7
+Change Component Designator: OldDesignator=6 NewDesignator=8
+Change Component Designator: OldDesignator=7 NewDesignator=9
+Change Component Designator: OldDesignator=cappow1 NewDesignator=cappow2
+Change Component Designator: OldDesignator=cappow2 NewDesignator=cappow3
+Added Component: Designator=3(JP2)
+Added Component: Designator=4(JP2)
+Added Component: Designator=cappow1(Tu 0805)
+Added Component: Designator=cappow4(Tu 0805)
+Added Pin To Net: NetName=RX Pin=3-2
+Added Pin To Net: NetName=TX Pin=4-2
+Added Pin To Net: NetName=GND Pin=cappow1-1
+Added Pin To Net: NetName=5V Pin=cappow1-2
+Added Pin To Net: NetName=GND Pin=cappow4-1
+Added Pin To Net: NetName=3V3 Pin=cappow4-2
+Change Net Name : Old Net Name=Net4_1 New Net Name=Net6_1
+Change Net Name : Old Net Name=Net5_1 New Net Name=Net7_1
+Added Pin To Net: NetName=Net3_1 Pin=3-1
+Added Pin To Net: NetName=Net3_1 Pin=U1-30
+Added Net: Name=Net3_1
+Added Pin To Net: NetName=Net4_1 Pin=4-1
+Added Pin To Net: NetName=Net4_1 Pin=U1-31
+Added Net: Name=Net4_1
+Added Member To Class: ClassName=Sheet1 Member=Component 1 Tu 0805 22p
+Added Member To Class: ClassName=Sheet1 Member=Component 2 Tu 0805 22p
+Added Member To Class: ClassName=Sheet1 Member=Component 8 22p
+Added Member To Class: ClassName=Sheet1 Member=Component 9 22p
+Added Member To Class: ClassName=Sheet1 Member=Component cappow3 104
+Added Member To Class: ClassName=Sheet1 Member=Component cappow4 103
+Added Member To Class: ClassName=Sheet1 Member=Component Dec_1 104
+Added Member To Class: ClassName=Sheet1 Member=Component Dec_2 104
+Added Member To Class: ClassName=Sheet1 Member=Component Dec_3 104
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED SMD
+Added Member To Class: ClassName=Sheet1 Member=Component X1 12mhz
