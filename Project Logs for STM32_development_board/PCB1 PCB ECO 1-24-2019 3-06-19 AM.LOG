@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=LED1 Old DesignItemId=LED-SMD-1206 New DesignItemId=LED-SMD-0805
+Change Component Footprint: Designator=LED1 Old Footprint=SM-LED-1206-Red New Footprint=SM-LED-0805-Blue

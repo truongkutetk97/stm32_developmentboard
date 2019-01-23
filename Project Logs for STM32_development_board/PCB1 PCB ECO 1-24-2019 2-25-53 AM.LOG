@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3V3 Pin=LED2-1
+Removed Pin From Net: NetName=3V3 Pin=LED3-1
+Removed Pin From Net: NetName=RX Pin=Resrx1-1
+Removed Pin From Net: NetName=TX Pin=ResTx1-1
+Change Component DesignItemId : Designator=LED13 Old DesignItemId=LED-SMD-1206 New DesignItemId=LED-SMD-0805
+Change Component Footprint: Designator=LED13 Old Footprint=SM-LED-1206-Red New Footprint=SM-LED-0805-Blue
