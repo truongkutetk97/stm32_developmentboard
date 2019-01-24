@@ -1,0 +1,37 @@
+Added Pin To Net: NetName=5V Pin=jo5-1
+Added Pin To Net: NetName=GND Pin=jo5-2
+Added Pin To Net: NetName=3V3 Pin=jo5-3
+Added Pin To Net: NetName=PA0 Pin=jo8-5
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=jo8-4
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=jo8-3
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=jo8-2
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=jo8-1
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=jo7-5
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=jo7-4
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=jo7-3
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=jo5-4
+Added Net: Name=PA8
+Added Pin To Net: NetName=PB0 Pin=jo7-2
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=jo7-1
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB10 Pin=jo6-5
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=jo6-4
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=jo6-3
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=jo6-2
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=jo6-1
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=jo5-5
+Added Net: Name=PB15

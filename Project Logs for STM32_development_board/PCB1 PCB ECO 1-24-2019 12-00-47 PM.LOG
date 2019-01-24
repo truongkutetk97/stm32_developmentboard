@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=PB5 Pin=jo2-1
+Removed Pin From Net: NetName=PB4 Pin=jo2-2
+Removed Pin From Net: NetName=PB3 Pin=jo2-3
+Removed Pin From Net: NetName=GND Pin=jo2-4
+Removed Pin From Net: NetName=3V3 Pin=jo2-5
+Change Component DesignItemId : Designator=jo2 Old DesignItemId=JP5 New DesignItemId=JP6
+Change Component DesignItemId : Designator=jo3 Old DesignItemId=JP5 New DesignItemId=JP6
+Change Component Footprint: Designator=jo2 Old Footprint=JP5 New Footprint=JP6
+Change Component Footprint: Designator=jo3 Old Footprint=JP5 New Footprint=JP6
+Change Component Comment : Designator=jo2 Old Comment=JP5 New Comment=JP6 PIN
+Change Component Comment : Designator=jo3 Old Comment=JP5 New Comment=JP6 PIN
+Added Pin To Net: NetName=PB4 Pin=jo2-1
+Added Pin To Net: NetName=PB3 Pin=jo2-2
+Added Pin To Net: NetName=3V3 Pin=jo2-4
+Added Pin To Net: NetName=GND Pin=jo2-5
+Added Pin To Net: NetName=5V Pin=jo2-6
+Added Pin To Net: NetName=PB5 Pin=jo3-6
+Added Pin To Net: NetName=PA15 Pin=jo2-3
+Added Pin To Net: NetName=PA15 Pin=U1-38
+Added Net: Name=PA15

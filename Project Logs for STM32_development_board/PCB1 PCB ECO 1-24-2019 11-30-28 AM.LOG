@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3V3 Pin=LED13-1
+Removed Pin From Net: NetName=LEDSIGN Pin=resled13-1
+Added Pin To Net: NetName=LEDSIGN Pin=LED13-2
+Added Pin To Net: NetName=3V3 Pin=resled13-2
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_1 Pin=resled13-1
+Added Net: Name=NetLED13_1
