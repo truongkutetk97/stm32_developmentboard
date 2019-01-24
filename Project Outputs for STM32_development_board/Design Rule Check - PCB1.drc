@@ -1,231 +1,212 @@
 Protel Design System Design Rule Check
 PCB File : D:\ProgramFile\Altium doc\stm32_developmentboard\PCB1.PcbDoc
 Date     : 1/24/2019
-Time     : 12:37:34 PM
+Time     : 2:01:47 PM
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Room Sheet1 (Bounding Region = (4333mil, 4359mil, 4601mil, 5094mil) (InComponentClass('Sheet1'))
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :57
+
+Processing Rule : Rule
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-35mil,-445mil)(15.158mil,-445mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-35mil,-755mil)(-35mil,-445mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-35mil,-755mil)(15.158mil,-755mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "d-1" (-39mil,-951mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "jo2" (474mil,113mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "jo3" (1070mil,113mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Rdp1" (-6mil,-319mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
+Rule Violations :9
 
-Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=15mil) (All)
-Rule Violations :0
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Via (209mil,-780mil) Top Layer to Bottom Layer and 
+                     Pad LED1-2(191mil,-845mil)  Bottom Layer
+   Violation between Pad micro1-2(180mil,-625.591mil)  Bottom Layer and 
+                     Pad micro1-1(180mil,-651.181mil)  Bottom Layer
+   Violation between Pad micro1-3(180mil,-600mil)  Bottom Layer and 
+                     Pad micro1-2(180mil,-625.591mil)  Bottom Layer
+   Violation between Pad micro1-4(180mil,-574.409mil)  Bottom Layer and 
+                     Pad micro1-3(180mil,-600mil)  Bottom Layer
+   Violation between Pad micro1-5(180mil,-550mil)  Bottom Layer and 
+                     Pad micro1-4(180mil,-574.409mil)  Bottom Layer
+   Violation between Via (227mil,-503mil) Top Layer to Bottom Layer and 
+                     Pad micro1-5(180mil,-550mil)  Bottom Layer
+   Violation between Via (52mil,-364mil) Top Layer to Bottom Layer and 
+                     Pad micro1-5(63.157mil,-444.488mil)  Bottom Layer
+   Violation between Via (602mil,-273mil) Top Layer to Bottom Layer and 
+                     Pad Rdm4-2(602.998mil,-340mil)  Bottom Layer
+   Violation between Pad X2-1(1843mil,-77mil)  Multi-Layer and 
+                     Pad 7-2(1814mil,-151mil)  Bottom Layer
+   Violation between Pad X2-2(1743mil,-77mil)  Multi-Layer and 
+                     Pad 7-1(1724mil,-151mil)  Bottom Layer
+   Violation between Via (1201mil,-714mil) Top Layer to Bottom Layer and 
+                     Pad Dec_7-2(1203mil,-645mil)  Bottom Layer
+   Violation between Pad ResTx1-2(527.002mil,-734mil)  Bottom Layer and 
+                     Pad Resrx1-2(527.002mil,-805mil)  Bottom Layer
+   Violation between Pad ResTx1-1(617.002mil,-734mil)  Bottom Layer and 
+                     Pad Resrx1-1(617.002mil,-805mil)  Bottom Layer
+   Violation between Pad cappow3-2(1299.667mil,-877mil)  Top Layer and 
+                     Pad cappow4-2(1372mil,-877mil)  Top Layer
+   Violation between Pad cappow3-1(1299.667mil,-787mil)  Top Layer and 
+                     Pad cappow4-1(1372mil,-787mil)  Top Layer
+   Violation between Pad cappow2-2(1192.333mil,-879mil)  Top Layer and 
+                     Pad cappow1-2(1120mil,-879mil)  Top Layer
+   Violation between Pad cappow2-1(1192.333mil,-789mil)  Top Layer and 
+                     Pad cappow1-1(1120mil,-789mil)  Top Layer
+   Violation between Via (602mil,-273mil) Top Layer to Bottom Layer and 
+                     Pad Rdm3-1(603.002mil,-206mil)  Top Layer
+   Violation between Via (52mil,-364mil) Top Layer to Bottom Layer and 
+                     Pad Rdp1-2(51.002mil,-300mil)  Top Layer
+   Violation between Pad 1-1(374mil,-772mil)  Top Layer and 
+                     Pad Dec_2-2(373mil,-841mil)  Top Layer
+   Violation between Pad 1-2(284mil,-772mil)  Top Layer and 
+                     Pad Dec_2-1(283mil,-841mil)  Top Layer
+   Violation between Via (227mil,-503mil) Top Layer to Bottom Layer and 
+                     Pad Dec_1-2(226mil,-435mil)  Top Layer
+   Violation between Pad Rpl1-2(763mil,-226.002mil)  Top Layer and 
+                     Pad Rpl2-2(693mil,-226.002mil)  Top Layer
+   Violation between Pad Rpl1-1(763mil,-316.002mil)  Top Layer and 
+                     Pad Rpl2-1(693mil,-316.002mil)  Top Layer
+   Violation between Pad IC1-2(610.858mil,-668.748mil)  Top Layer and 
+                     Pad IC1-1(610.858mil,-694.339mil)  Top Layer
+   Violation between Pad IC1-3(610.858mil,-643.158mil)  Top Layer and 
+                     Pad IC1-2(610.858mil,-668.748mil)  Top Layer
+   Violation between Pad IC1-4(610.858mil,-617.567mil)  Top Layer and 
+                     Pad IC1-3(610.858mil,-643.158mil)  Top Layer
+   Violation between Pad IC1-5(610.858mil,-591.976mil)  Top Layer and 
+                     Pad IC1-4(610.858mil,-617.567mil)  Top Layer
+   Violation between Pad IC1-6(610.858mil,-566.386mil)  Top Layer and 
+                     Pad IC1-5(610.858mil,-591.976mil)  Top Layer
+   Violation between Pad IC1-7(610.858mil,-540.795mil)  Top Layer and 
+                     Pad IC1-6(610.858mil,-566.386mil)  Top Layer
+   Violation between Pad IC1-8(610.858mil,-515.205mil)  Top Layer and 
+                     Pad IC1-7(610.858mil,-540.795mil)  Top Layer
+   Violation between Pad IC1-9(610.858mil,-489.614mil)  Top Layer and 
+                     Pad IC1-8(610.858mil,-515.205mil)  Top Layer
+   Violation between Pad IC1-10(610.858mil,-464.024mil)  Top Layer and 
+                     Pad IC1-9(610.858mil,-489.614mil)  Top Layer
+   Violation between Pad IC1-11(610.858mil,-438.433mil)  Top Layer and 
+                     Pad IC1-10(610.858mil,-464.024mil)  Top Layer
+   Violation between Pad IC1-12(610.858mil,-412.842mil)  Top Layer and 
+                     Pad IC1-11(610.858mil,-438.433mil)  Top Layer
+   Violation between Pad IC1-13(610.858mil,-387.252mil)  Top Layer and 
+                     Pad IC1-12(610.858mil,-412.842mil)  Top Layer
+   Violation between Pad IC1-14(610.858mil,-361.661mil)  Top Layer and 
+                     Pad IC1-13(610.858mil,-387.252mil)  Top Layer
+   Violation between Pad IC1-27(339.142mil,-668.748mil)  Top Layer and 
+                     Pad IC1-28(339.142mil,-694.339mil)  Top Layer
+   Violation between Pad IC1-26(339.142mil,-643.158mil)  Top Layer and 
+                     Pad IC1-27(339.142mil,-668.748mil)  Top Layer
+   Violation between Pad IC1-25(339.142mil,-617.567mil)  Top Layer and 
+                     Pad IC1-26(339.142mil,-643.158mil)  Top Layer
+   Violation between Pad IC1-24(339.142mil,-591.976mil)  Top Layer and 
+                     Pad IC1-25(339.142mil,-617.567mil)  Top Layer
+   Violation between Pad IC1-23(339.142mil,-566.386mil)  Top Layer and 
+                     Pad IC1-24(339.142mil,-591.976mil)  Top Layer
+   Violation between Pad IC1-22(339.142mil,-540.795mil)  Top Layer and 
+                     Pad IC1-23(339.142mil,-566.386mil)  Top Layer
+   Violation between Pad IC1-21(339.142mil,-515.205mil)  Top Layer and 
+                     Pad IC1-22(339.142mil,-540.795mil)  Top Layer
+   Violation between Pad IC1-20(339.142mil,-489.614mil)  Top Layer and 
+                     Pad IC1-21(339.142mil,-515.205mil)  Top Layer
+   Violation between Pad IC1-19(339.142mil,-464.024mil)  Top Layer and 
+                     Pad IC1-20(339.142mil,-489.614mil)  Top Layer
+   Violation between Pad IC1-18(339.142mil,-438.433mil)  Top Layer and 
+                     Pad IC1-19(339.142mil,-464.024mil)  Top Layer
+   Violation between Pad IC1-17(339.142mil,-412.842mil)  Top Layer and 
+                     Pad IC1-18(339.142mil,-438.433mil)  Top Layer
+   Violation between Pad IC1-16(339.142mil,-387.252mil)  Top Layer and 
+                     Pad IC1-17(339.142mil,-412.842mil)  Top Layer
+   Violation between Pad IC1-15(339.142mil,-361.661mil)  Top Layer and 
+                     Pad IC1-16(339.142mil,-387.252mil)  Top Layer
+   Violation between Via (105mil,-157mil) Top Layer to Bottom Layer and 
+                     Via (110mil,-226mil) Top Layer to Bottom Layer
+Rule Violations :51
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Pad Resrx1-1(617.002mil,-805mil)  Bottom Layer and 
-                     Pad ResTx1-1(617.002mil,-734mil)  Bottom Layer
-   Violation between Pad Resrx1-2(527.002mil,-805mil)  Bottom Layer and 
-                     Pad ResTx1-2(527.002mil,-734mil)  Bottom Layer
-   Violation between Pad X2-2(1743mil,-77mil)  Multi-Layer and 
-                     Pad 7-1(1724mil,-151mil)  Bottom Layer
-   Violation between Pad X2-1(1843mil,-77mil)  Multi-Layer and 
-                     Pad 7-2(1814mil,-151mil)  Bottom Layer
-   Violation between Via (602mil,-273mil) Top Layer to Bottom Layer and 
-                     Pad Rdm4-2(602.998mil,-340mil)  Bottom Layer
-   Violation between Via (52mil,-364mil) Top Layer to Bottom Layer and 
-                     Pad micro1-5(63.157mil,-444.488mil)  Bottom Layer
-   Violation between Pad micro1-4(180mil,-574.409mil)  Bottom Layer and 
-                     Pad micro1-5(180mil,-550mil)  Bottom Layer
-   Violation between Via (227mil,-503mil) Top Layer to Bottom Layer and 
-                     Pad micro1-5(180mil,-550mil)  Bottom Layer
-   Violation between Pad micro1-3(180mil,-600mil)  Bottom Layer and 
-                     Pad micro1-4(180mil,-574.409mil)  Bottom Layer
-   Violation between Pad micro1-2(180mil,-625.591mil)  Bottom Layer and 
-                     Pad micro1-3(180mil,-600mil)  Bottom Layer
-   Violation between Pad micro1-1(180mil,-651.181mil)  Bottom Layer and 
-                     Pad micro1-2(180mil,-625.591mil)  Bottom Layer
-   Violation between Via (209mil,-780mil) Top Layer to Bottom Layer and 
-                     Pad LED1-2(191mil,-845mil)  Bottom Layer
-   Violation between Pad IC1-16(339.142mil,-387.252mil)  Top Layer and 
-                     Pad IC1-15(339.142mil,-361.661mil)  Top Layer
-   Violation between Pad IC1-17(339.142mil,-412.842mil)  Top Layer and 
-                     Pad IC1-16(339.142mil,-387.252mil)  Top Layer
-   Violation between Pad IC1-18(339.142mil,-438.433mil)  Top Layer and 
-                     Pad IC1-17(339.142mil,-412.842mil)  Top Layer
-   Violation between Pad IC1-19(339.142mil,-464.024mil)  Top Layer and 
-                     Pad IC1-18(339.142mil,-438.433mil)  Top Layer
-   Violation between Pad IC1-20(339.142mil,-489.614mil)  Top Layer and 
-                     Pad IC1-19(339.142mil,-464.024mil)  Top Layer
-   Violation between Pad IC1-21(339.142mil,-515.205mil)  Top Layer and 
-                     Pad IC1-20(339.142mil,-489.614mil)  Top Layer
-   Violation between Pad IC1-22(339.142mil,-540.795mil)  Top Layer and 
-                     Pad IC1-21(339.142mil,-515.205mil)  Top Layer
-   Violation between Pad IC1-23(339.142mil,-566.386mil)  Top Layer and 
-                     Pad IC1-22(339.142mil,-540.795mil)  Top Layer
-   Violation between Pad IC1-24(339.142mil,-591.976mil)  Top Layer and 
-                     Pad IC1-23(339.142mil,-566.386mil)  Top Layer
-   Violation between Pad IC1-25(339.142mil,-617.567mil)  Top Layer and 
-                     Pad IC1-24(339.142mil,-591.976mil)  Top Layer
-   Violation between Pad IC1-26(339.142mil,-643.158mil)  Top Layer and 
-                     Pad IC1-25(339.142mil,-617.567mil)  Top Layer
-   Violation between Pad IC1-27(339.142mil,-668.748mil)  Top Layer and 
-                     Pad IC1-26(339.142mil,-643.158mil)  Top Layer
-   Violation between Pad IC1-28(339.142mil,-694.339mil)  Top Layer and 
-                     Pad IC1-27(339.142mil,-668.748mil)  Top Layer
-   Violation between Pad IC1-13(610.858mil,-387.252mil)  Top Layer and 
-                     Pad IC1-14(610.858mil,-361.661mil)  Top Layer
-   Violation between Pad IC1-12(610.858mil,-412.842mil)  Top Layer and 
-                     Pad IC1-13(610.858mil,-387.252mil)  Top Layer
-   Violation between Pad IC1-11(610.858mil,-438.433mil)  Top Layer and 
-                     Pad IC1-12(610.858mil,-412.842mil)  Top Layer
-   Violation between Pad IC1-10(610.858mil,-464.024mil)  Top Layer and 
-                     Pad IC1-11(610.858mil,-438.433mil)  Top Layer
-   Violation between Pad IC1-9(610.858mil,-489.614mil)  Top Layer and 
-                     Pad IC1-10(610.858mil,-464.024mil)  Top Layer
-   Violation between Pad IC1-8(610.858mil,-515.205mil)  Top Layer and 
-                     Pad IC1-9(610.858mil,-489.614mil)  Top Layer
-   Violation between Pad IC1-7(610.858mil,-540.795mil)  Top Layer and 
-                     Pad IC1-8(610.858mil,-515.205mil)  Top Layer
-   Violation between Pad IC1-6(610.858mil,-566.386mil)  Top Layer and 
-                     Pad IC1-7(610.858mil,-540.795mil)  Top Layer
-   Violation between Pad IC1-5(610.858mil,-591.976mil)  Top Layer and 
-                     Pad IC1-6(610.858mil,-566.386mil)  Top Layer
-   Violation between Pad IC1-4(610.858mil,-617.567mil)  Top Layer and 
-                     Pad IC1-5(610.858mil,-591.976mil)  Top Layer
-   Violation between Pad IC1-3(610.858mil,-643.158mil)  Top Layer and 
-                     Pad IC1-4(610.858mil,-617.567mil)  Top Layer
-   Violation between Pad IC1-2(610.858mil,-668.748mil)  Top Layer and 
-                     Pad IC1-3(610.858mil,-643.158mil)  Top Layer
-   Violation between Pad IC1-1(610.858mil,-694.339mil)  Top Layer and 
-                     Pad IC1-2(610.858mil,-668.748mil)  Top Layer
-   Violation between Pad Dec_2-2(373mil,-841mil)  Top Layer and 
-                     Pad 1-1(374mil,-772mil)  Top Layer
-   Violation between Pad Dec_2-1(283mil,-841mil)  Top Layer and 
-                     Pad 1-2(284mil,-772mil)  Top Layer
-   Violation between Pad Rpl2-1(693mil,-316.002mil)  Top Layer and 
-                     Pad Rpl1-1(763mil,-316.002mil)  Top Layer
-   Violation between Pad Rpl2-2(693mil,-226.002mil)  Top Layer and 
-                     Pad Rpl1-2(763mil,-226.002mil)  Top Layer
-   Violation between Via (227mil,-503mil) Top Layer to Bottom Layer and 
-                     Pad Dec_1-2(226mil,-435mil)  Top Layer
-   Violation between Via (52mil,-364mil) Top Layer to Bottom Layer and 
-                     Pad Rdp1-2(51.002mil,-300mil)  Top Layer
-   Violation between Via (602mil,-273mil) Top Layer to Bottom Layer and 
-                     Pad Rdm3-1(603.002mil,-206mil)  Top Layer
-   Violation between Pad cappow1-1(1120mil,-789mil)  Top Layer and 
-                     Pad cappow2-1(1192.333mil,-789mil)  Top Layer
-   Violation between Pad cappow1-2(1120mil,-879mil)  Top Layer and 
-                     Pad cappow2-2(1192.333mil,-879mil)  Top Layer
-   Violation between Pad cappow4-1(1372mil,-787mil)  Top Layer and 
-                     Pad cappow3-1(1299.667mil,-787mil)  Top Layer
-   Violation between Pad cappow4-2(1372mil,-877mil)  Top Layer and 
-                     Pad cappow3-2(1299.667mil,-877mil)  Top Layer
-   Violation between Via (110mil,-226mil) Top Layer to Bottom Layer and 
-                     Via (105mil,-157mil) Top Layer to Bottom Layer
-Rule Violations :50
-
-Processing Rule : Silk primitive without silk layer
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-35mil,-755mil)(15.158mil,-755mil)  Bottom Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-35mil,-755mil)(-35mil,-445mil)  Bottom Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (-35mil,-445mil)(15.158mil,-445mil)  Bottom Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1675mil,-1189mil)(2193mil,-1189mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1675mil,-1189mil)(1675mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (2193mil,-1189mil)(2193mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1781mil,-1187mil)(1781mil,-1069mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1160.667mil,-1189mil)(1678.667mil,-1189mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1160.667mil,-1189mil)(1160.667mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1678.667mil,-1189mil)(1678.667mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1266.667mil,-1187mil)(1266.667mil,-1069mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (646.333mil,-1189mil)(1164.333mil,-1189mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (646.333mil,-1189mil)(646.333mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1164.333mil,-1189mil)(1164.333mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (752.333mil,-1187mil)(752.333mil,-1069mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (132mil,-1189mil)(650mil,-1189mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (132mil,-1189mil)(132mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (650mil,-1189mil)(650mil,-1067mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (238mil,-1187mil)(238mil,-1069mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "*1" (2471mil,-620mil)  Bottom Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Rdp1" (-6mil,-319mil)  Bottom Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "jo3" (1070mil,113mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "jo2" (474mil,113mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "d-1" (-39mil,-951mil)  Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
-   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Region (0 hole(s)) Top Overlay
-Rule Violations :30
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=15mil) (All)
 Rule Violations :0
 
-Processing Rule : Rule
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Room Sheet1 (Bounding Region = (4333mil, 2845mil, 4601mil, 3335mil) (InComponentClass('Sheet1'))
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
-   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
-Rule Violations :57
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
 
 
-Violations Detected : 137
+Violations Detected : 117
 Time Elapsed        : 00:00:01
